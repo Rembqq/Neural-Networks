@@ -1,0 +1,5 @@
+dataset-creator/*
+data/MNIST/*
+src/lab3/data
+src/lab4/raw-img
+*.h5
